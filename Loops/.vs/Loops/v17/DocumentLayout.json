@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\Loops\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Loops\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F6EE7BF-A862-47AB-8CB7-8C47C9EA52FF}|Loops\\Loops.csproj|c:\\users\\simon\\source\\repos\\loops\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3552F6F5-F113-40B8-861C-C8859774E33D}|Task 4\\Task 4.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-c-sharp\\loops\\task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3552F6F5-F113-40B8-861C-C8859774E33D}|Task 4\\Task 4.csproj|solutionrelative:task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8A6F8B-22B3-4E9A-B437-4D7FA2D40C2C}|Task 3\\Task 3.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-c-sharp\\loops\\task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8A6F8B-22B3-4E9A-B437-4D7FA2D40C2C}|Task 3\\Task 3.csproj|solutionrelative:task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD76D174-137E-42A6-8075-B903B617E4C5}|Task 2\\Task 2.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-c-sharp\\loops\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD76D174-137E-42A6-8075-B903B617E4C5}|Task 2\\Task 2.csproj|solutionrelative:task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6EE7BF-A862-47AB-8CB7-8C47C9EA52FF}|Loops\\Loops.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-c-sharp\\loops\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F6EE7BF-A862-47AB-8CB7-8C47C9EA52FF}|Loops\\Loops.csproj|solutionrelative:loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Loops\\Task 4\\Program.cs",
+              "RelativeDocumentMoniker": "Task 4\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Loops\\Task 4\\Program.cs",
+              "RelativeToolTip": "Task 4\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:46:32.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Loops\\Task 3\\Program.cs",
+              "RelativeDocumentMoniker": "Task 3\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Loops\\Task 3\\Program.cs",
+              "RelativeToolTip": "Task 3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:46:07.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Loops\\Task 2\\Program.cs",
+              "RelativeDocumentMoniker": "Task 2\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Loops\\Task 2\\Program.cs",
+              "RelativeToolTip": "Task 2\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:45:03.727Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Loops\\Loops\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Loops\\Loops\\Program.cs",
               "RelativeDocumentMoniker": "Loops\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\Loops\\Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Loops\\Loops\\Program.cs",
               "RelativeToolTip": "Loops\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
