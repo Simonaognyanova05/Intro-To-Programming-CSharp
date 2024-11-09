@@ -1,0 +1,15 @@
+C:\Users\S044\source\repos\HelloWorld72\HelloWorld72\bin\Debug\HelloWorld72.exe.config
+C:\Users\S044\source\repos\HelloWorld72\HelloWorld72\bin\Debug\HelloWorld72.exe
+C:\Users\S044\source\repos\HelloWorld72\HelloWorld72\bin\Debug\HelloWorld72.pdb
+C:\Users\S044\source\repos\HelloWorld72\HelloWorld72\obj\Debug\HelloWorld72.csproj.AssemblyReference.cache
+C:\Users\S044\source\repos\HelloWorld72\HelloWorld72\obj\Debug\HelloWorld72.csproj.SuggestedBindingRedirects.cache
+C:\Users\S044\source\repos\HelloWorld72\HelloWorld72\obj\Debug\HelloWorld72.csproj.CoreCompileInputs.cache
+C:\Users\S044\source\repos\HelloWorld72\HelloWorld72\obj\Debug\HelloWorld72.exe
+C:\Users\S044\source\repos\HelloWorld72\HelloWorld72\obj\Debug\HelloWorld72.pdb
+C:\Users\Victor\Downloads\HelloWorld72\HelloWorld72\bin\Debug\HelloWorld72.exe.config
+C:\Users\Victor\Downloads\HelloWorld72\HelloWorld72\bin\Debug\HelloWorld72.exe
+C:\Users\Victor\Downloads\HelloWorld72\HelloWorld72\bin\Debug\HelloWorld72.pdb
+C:\Users\Victor\Downloads\HelloWorld72\HelloWorld72\obj\Debug\HelloWorld72.csproj.AssemblyReference.cache
+C:\Users\Victor\Downloads\HelloWorld72\HelloWorld72\obj\Debug\HelloWorld72.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Downloads\HelloWorld72\HelloWorld72\obj\Debug\HelloWorld72.exe
+C:\Users\Victor\Downloads\HelloWorld72\HelloWorld72\obj\Debug\HelloWorld72.pdb
