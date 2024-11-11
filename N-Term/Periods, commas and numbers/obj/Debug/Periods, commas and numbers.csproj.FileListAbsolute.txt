@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\N-Term\Periods, commas and numbers\bin\Debug\Periods, commas and numbers.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\N-Term\Periods, commas and numbers\bin\Debug\Periods, commas and numbers.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\N-Term\Periods, commas and numbers\bin\Debug\Periods, commas and numbers.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\N-Term\Periods, commas and numbers\obj\Debug\Periods, commas and numbers.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\N-Term\Periods, commas and numbers\obj\Debug\Periods, commas and numbers.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\N-Term\Periods, commas and numbers\obj\Debug\Periods, commas and numbers.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\N-Term\Periods, commas and numbers\obj\Debug\Periods, commas and numbers.pdb

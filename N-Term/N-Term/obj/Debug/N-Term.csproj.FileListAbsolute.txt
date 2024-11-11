@@ -5,3 +5,10 @@ C:\Users\simon\source\repos\N-Term\N-Term\obj\Debug\N-Term.csproj.AssemblyRefere
 C:\Users\simon\source\repos\N-Term\N-Term\obj\Debug\N-Term.csproj.CoreCompileInputs.cache
 C:\Users\simon\source\repos\N-Term\N-Term\obj\Debug\N-Term.exe
 C:\Users\simon\source\repos\N-Term\N-Term\obj\Debug\N-Term.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\N-Term\N-Term\bin\Debug\N-Term.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\N-Term\N-Term\bin\Debug\N-Term.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\N-Term\N-Term\bin\Debug\N-Term.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\N-Term\N-Term\obj\Debug\N-Term.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\N-Term\N-Term\obj\Debug\N-Term.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\N-Term\N-Term\obj\Debug\N-Term.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\N-Term\N-Term\obj\Debug\N-Term.pdb

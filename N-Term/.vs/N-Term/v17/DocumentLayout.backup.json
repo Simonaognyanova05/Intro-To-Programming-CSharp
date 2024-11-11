@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\N-Term\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\N-Term\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0139DA2A-B468-4ED0-A7A3-1948522436FC}|N-Term\\N-Term.csproj|c:\\users\\simon\\source\\repos\\n-term\\n-term\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDF1FB67-5861-4DE1-AD1E-D033C3C453D3}|Periods, commas and numbers\\Periods, commas and numbers.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-c-sharp\\n-term\\periods, commas and numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF1FB67-5861-4DE1-AD1E-D033C3C453D3}|Periods, commas and numbers\\Periods, commas and numbers.csproj|solutionrelative:periods, commas and numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0139DA2A-B468-4ED0-A7A3-1948522436FC}|N-Term\\N-Term.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-c-sharp\\n-term\\n-term\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0139DA2A-B468-4ED0-A7A3-1948522436FC}|N-Term\\N-Term.csproj|solutionrelative:n-term\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\N-Term\\Periods, commas and numbers\\Program.cs",
+              "RelativeDocumentMoniker": "Periods, commas and numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\N-Term\\Periods, commas and numbers\\Program.cs",
+              "RelativeToolTip": "Periods, commas and numbers\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:36:22.72Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\N-Term\\N-Term\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\N-Term\\N-Term\\Program.cs",
               "RelativeDocumentMoniker": "N-Term\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\N-Term\\N-Term\\Program.cs*",
-              "RelativeToolTip": "N-Term\\Program.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\N-Term\\N-Term\\Program.cs",
+              "RelativeToolTip": "N-Term\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T21:09:31.023Z",
               "EditorCaption": ""
