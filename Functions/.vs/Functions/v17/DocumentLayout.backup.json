@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Functions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7057257-5B3E-4665-902C-90D130B0341D}|Functions\\Functions.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-c-sharp\\functions\\functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C7FBA96-6449-48CD-8296-6D07A542E4A5}|RepeatText\\RepeatText.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-c-sharp\\functions\\repeattext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7FBA96-6449-48CD-8296-6D07A542E4A5}|RepeatText\\RepeatText.csproj|solutionrelative:repeattext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A59B2F5-8F57-4C43-AF00-04ED2D8DD7E6}|FindPower\\FindPower.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-c-sharp\\functions\\findpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A59B2F5-8F57-4C43-AF00-04ED2D8DD7E6}|FindPower\\FindPower.csproj|solutionrelative:findpower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7057257-5B3E-4665-902C-90D130B0341D}|Functions\\Functions.csproj|C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Functions\\functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7057257-5B3E-4665-902C-90D130B0341D}|Functions\\Functions.csproj|solutionrelative:functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,15 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Functions\\RepeatText\\Program.cs",
+              "RelativeDocumentMoniker": "RepeatText\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Functions\\RepeatText\\Program.cs",
+              "RelativeToolTip": "RepeatText\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:26:13.069Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Functions\\FindPower\\Program.cs",
+              "RelativeDocumentMoniker": "FindPower\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Functions\\FindPower\\Program.cs",
+              "RelativeToolTip": "FindPower\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:22:43.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Functions\\Functions\\Program.cs",
               "RelativeDocumentMoniker": "Functions\\Program.cs",
@@ -30,8 +64,7 @@
               "RelativeToolTip": "Functions\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T21:14:30.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T21:14:30.947Z"
             }
           ]
         }

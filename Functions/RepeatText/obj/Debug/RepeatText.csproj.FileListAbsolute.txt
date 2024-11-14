@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Functions\RepeatText\bin\Debug\RepeatText.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Functions\RepeatText\bin\Debug\RepeatText.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Functions\RepeatText\bin\Debug\RepeatText.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Functions\RepeatText\obj\Debug\RepeatText.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Functions\RepeatText\obj\Debug\RepeatText.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Functions\RepeatText\obj\Debug\RepeatText.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Functions\RepeatText\obj\Debug\RepeatText.pdb
