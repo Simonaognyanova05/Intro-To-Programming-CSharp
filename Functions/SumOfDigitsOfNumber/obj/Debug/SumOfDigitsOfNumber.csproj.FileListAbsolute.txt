@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Functions\SumOfDigitsOfNumber\bin\Debug\SumOfDigitsOfNumber.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Functions\SumOfDigitsOfNumber\bin\Debug\SumOfDigitsOfNumber.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Functions\SumOfDigitsOfNumber\bin\Debug\SumOfDigitsOfNumber.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Functions\SumOfDigitsOfNumber\obj\Debug\SumOfDigitsOfNumber.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Functions\SumOfDigitsOfNumber\obj\Debug\SumOfDigitsOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Functions\SumOfDigitsOfNumber\obj\Debug\SumOfDigitsOfNumber.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Functions\SumOfDigitsOfNumber\obj\Debug\SumOfDigitsOfNumber.pdb
