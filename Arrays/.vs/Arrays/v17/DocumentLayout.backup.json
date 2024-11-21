@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\Arrays\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A22256A-E52C-4B46-A510-1DE0BE416FB4}|Arrays\\Arrays.csproj|c:\\users\\simon\\source\\repos\\arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D60D785C-83B2-4725-BDB0-941537AF7456}|AvgOfElements\\AvgOfElements.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-c-sharp\\arrays\\avgofelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60D785C-83B2-4725-BDB0-941537AF7456}|AvgOfElements\\AvgOfElements.csproj|solutionrelative:avgofelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A22256A-E52C-4B46-A510-1DE0BE416FB4}|Arrays\\Arrays.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-c-sharp\\arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A22256A-E52C-4B46-A510-1DE0BE416FB4}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +24,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Arrays\\Arrays\\Program.cs",
-              "RelativeDocumentMoniker": "Arrays\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\Arrays\\Arrays\\Program.cs*",
-              "RelativeToolTip": "Arrays\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\AvgOfElements\\Program.cs",
+              "RelativeDocumentMoniker": "AvgOfElements\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\AvgOfElements\\Program.cs",
+              "RelativeToolTip": "AvgOfElements\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T19:50:21.78Z",
+              "WhenOpened": "2024-11-21T19:53:49.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:50:21.78Z",
+              "EditorCaption": ""
             }
           ]
         }

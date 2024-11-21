@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Arrays\AvgOfElements\bin\Debug\AvgOfElements.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Arrays\AvgOfElements\bin\Debug\AvgOfElements.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Arrays\AvgOfElements\bin\Debug\AvgOfElements.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Arrays\AvgOfElements\obj\Debug\AvgOfElements.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Arrays\AvgOfElements\obj\Debug\AvgOfElements.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Arrays\AvgOfElements\obj\Debug\AvgOfElements.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-C-Sharp\Arrays\AvgOfElements\obj\Debug\AvgOfElements.pdb
