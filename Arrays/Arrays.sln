@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvgOfElements", "AvgOfElements\AvgOfElements.csproj", "{D60D785C-83B2-4725-BDB0-941537AF7456}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxElement", "MaxElement\MaxElement.csproj", "{6F0016F9-E9CB-4BA4-BAE3-81B45BE1E023}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D60D785C-83B2-4725-BDB0-941537AF7456}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D60D785C-83B2-4725-BDB0-941537AF7456}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D60D785C-83B2-4725-BDB0-941537AF7456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0016F9-E9CB-4BA4-BAE3-81B45BE1E023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0016F9-E9CB-4BA4-BAE3-81B45BE1E023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0016F9-E9CB-4BA4-BAE3-81B45BE1E023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0016F9-E9CB-4BA4-BAE3-81B45BE1E023}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

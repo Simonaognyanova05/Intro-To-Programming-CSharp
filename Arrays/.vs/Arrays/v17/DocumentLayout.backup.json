@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F0016F9-E9CB-4BA4-BAE3-81B45BE1E023}|MaxElement\\MaxElement.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-c-sharp\\arrays\\maxelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0016F9-E9CB-4BA4-BAE3-81B45BE1E023}|MaxElement\\MaxElement.csproj|solutionrelative:maxelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D60D785C-83B2-4725-BDB0-941537AF7456}|AvgOfElements\\AvgOfElements.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-c-sharp\\arrays\\avgofelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D60D785C-83B2-4725-BDB0-941537AF7456}|AvgOfElements\\AvgOfElements.csproj|solutionrelative:avgofelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A22256A-E52C-4B46-A510-1DE0BE416FB4}|Arrays\\Arrays.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-c-sharp\\arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A22256A-E52C-4B46-A510-1DE0BE416FB4}|Arrays\\Arrays.csproj|C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A22256A-E52C-4B46-A510-1DE0BE416FB4}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\AvgOfElements\\Program.cs",
-              "RelativeDocumentMoniker": "AvgOfElements\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\AvgOfElements\\Program.cs",
-              "RelativeToolTip": "AvgOfElements\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\MaxElement\\Program.cs",
+              "RelativeDocumentMoniker": "MaxElement\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\MaxElement\\Program.cs",
+              "RelativeToolTip": "MaxElement\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvx0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T19:53:49.151Z",
+              "WhenOpened": "2024-11-21T19:58:59.203Z",
               "EditorCaption": ""
             },
             {
@@ -41,14 +45,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\AvgOfElements\\Program.cs",
+              "RelativeDocumentMoniker": "AvgOfElements\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\AvgOfElements\\Program.cs",
+              "RelativeToolTip": "AvgOfElements\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:53:49.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\Arrays\\Program.cs",
               "RelativeDocumentMoniker": "Arrays\\Program.cs",
               "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-C-Sharp\\Arrays\\Arrays\\Program.cs",
               "RelativeToolTip": "Arrays\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T19:50:21.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T19:50:21.78Z"
             }
           ]
         }
