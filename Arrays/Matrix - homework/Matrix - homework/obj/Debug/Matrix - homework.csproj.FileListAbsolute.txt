@@ -1,0 +1,7 @@
+C:\Users\simon\source\repos\Matrix - homework\Matrix - homework\bin\Debug\Matrix - homework.exe.config
+C:\Users\simon\source\repos\Matrix - homework\Matrix - homework\bin\Debug\Matrix - homework.exe
+C:\Users\simon\source\repos\Matrix - homework\Matrix - homework\bin\Debug\Matrix - homework.pdb
+C:\Users\simon\source\repos\Matrix - homework\Matrix - homework\obj\Debug\Matrix - homework.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Matrix - homework\Matrix - homework\obj\Debug\Matrix - homework.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Matrix - homework\Matrix - homework\obj\Debug\Matrix - homework.exe
+C:\Users\simon\source\repos\Matrix - homework\Matrix - homework\obj\Debug\Matrix - homework.pdb
