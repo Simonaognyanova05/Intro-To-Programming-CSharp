@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\Arrays\Matrix - homework\OddAndEvenElements\bin\Debug\OddAndEvenElements.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\Arrays\Matrix - homework\OddAndEvenElements\bin\Debug\OddAndEvenElements.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\Arrays\Matrix - homework\OddAndEvenElements\bin\Debug\OddAndEvenElements.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\Arrays\Matrix - homework\OddAndEvenElements\obj\Debug\OddAndEvenElements.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\Arrays\Matrix - homework\OddAndEvenElements\obj\Debug\OddAndEvenElements.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\Arrays\Matrix - homework\OddAndEvenElements\obj\Debug\OddAndEvenElements.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\Arrays\Matrix - homework\OddAndEvenElements\obj\Debug\OddAndEvenElements.pdb

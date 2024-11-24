@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\Matrix - homework\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Arrays\\Matrix - homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF7654D5-3022-45E8-A65B-9536F95BF544}|Matrix - homework\\Matrix - homework.csproj|c:\\users\\simon\\source\\repos\\matrix - homework\\matrix - homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67D54225-7760-4563-AC8D-E26ED208EDD9}|OddAndEvenElements\\OddAndEvenElements.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\arrays\\matrix - homework\\oddandevenelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D54225-7760-4563-AC8D-E26ED208EDD9}|OddAndEvenElements\\OddAndEvenElements.csproj|solutionrelative:oddandevenelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7654D5-3022-45E8-A65B-9536F95BF544}|Matrix - homework\\Matrix - homework.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\arrays\\matrix - homework\\matrix - homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF7654D5-3022-45E8-A65B-9536F95BF544}|Matrix - homework\\Matrix - homework.csproj|solutionrelative:matrix - homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Matrix - homework\\Matrix - homework\\Program.cs",
-              "RelativeDocumentMoniker": "Matrix - homework\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\Matrix - homework\\Matrix - homework\\Program.cs",
-              "RelativeToolTip": "Matrix - homework\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Arrays\\Matrix - homework\\OddAndEvenElements\\Program.cs",
+              "RelativeDocumentMoniker": "OddAndEvenElements\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Arrays\\Matrix - homework\\OddAndEvenElements\\Program.cs",
+              "RelativeToolTip": "OddAndEvenElements\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T09:03:35.194Z",
+              "WhenOpened": "2024-11-24T09:21:37.185Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Arrays\\Matrix - homework\\Matrix - homework\\Program.cs",
+              "RelativeDocumentMoniker": "Matrix - homework\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Arrays\\Matrix - homework\\Matrix - homework\\Program.cs",
+              "RelativeToolTip": "Matrix - homework\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:03:35.194Z",
+              "EditorCaption": ""
             }
           ]
         }

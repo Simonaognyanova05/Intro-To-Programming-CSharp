@@ -35,6 +35,7 @@ namespace Matrix___homework
                 }
                 Console.WriteLine();
             }
+            Console.ReadKey();  
         }
     }
 }
