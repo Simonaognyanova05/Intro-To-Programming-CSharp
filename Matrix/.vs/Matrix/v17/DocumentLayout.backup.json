@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\Matrix\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3C1F91F-6643-4F33-8176-8DDBF9A141CC}|Matrix\\Matrix.csproj|c:\\users\\simon\\source\\repos\\matrix\\matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39942EE7-8C4C-48AC-8DE6-D74C7313F279}|TMatrix\\TMatrix.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\matrix\\tmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39942EE7-8C4C-48AC-8DE6-D74C7313F279}|TMatrix\\TMatrix.csproj|solutionrelative:tmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C1F91F-6643-4F33-8176-8DDBF9A141CC}|Matrix\\Matrix.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\matrix\\matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3C1F91F-6643-4F33-8176-8DDBF9A141CC}|Matrix\\Matrix.csproj|solutionrelative:matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +24,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Matrix\\Matrix\\Program.cs",
-              "RelativeDocumentMoniker": "Matrix\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\Matrix\\Matrix\\Program.cs",
-              "RelativeToolTip": "Matrix\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\TMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "TMatrix\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\TMatrix\\Program.cs",
+              "RelativeToolTip": "TMatrix\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T19:33:12.727Z",
+              "WhenOpened": "2024-11-28T19:36:58.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\Matrix\\Program.cs",
+              "RelativeDocumentMoniker": "Matrix\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\Matrix\\Program.cs",
+              "RelativeToolTip": "Matrix\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:33:12.727Z",
+              "EditorCaption": ""
             }
           ]
         }
