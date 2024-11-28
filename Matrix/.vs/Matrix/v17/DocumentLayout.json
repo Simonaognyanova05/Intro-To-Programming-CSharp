@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5EFC55D-66E1-40E4-92D5-88F7B5EF7B0A}|MinElementsWithoutFunc\\MinElementsWithoutFunc.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\matrix\\minelementswithoutfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5EFC55D-66E1-40E4-92D5-88F7B5EF7B0A}|MinElementsWithoutFunc\\MinElementsWithoutFunc.csproj|solutionrelative:minelementswithoutfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{960C936D-FD74-41E1-B467-80920AD62F30}|CreateNewTransponatedMatrix\\CreateNewTransponatedMatrix.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\matrix\\createnewtransponatedmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{960C936D-FD74-41E1-B467-80920AD62F30}|CreateNewTransponatedMatrix\\CreateNewTransponatedMatrix.csproj|solutionrelative:createnewtransponatedmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39942EE7-8C4C-48AC-8DE6-D74C7313F279}|TMatrix\\TMatrix.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\matrix\\tmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39942EE7-8C4C-48AC-8DE6-D74C7313F279}|TMatrix\\TMatrix.csproj|C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\tmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39942EE7-8C4C-48AC-8DE6-D74C7313F279}|TMatrix\\TMatrix.csproj|solutionrelative:tmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -28,13 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\CreateNewTransponatedMatrix\\Program.cs",
-              "RelativeDocumentMoniker": "CreateNewTransponatedMatrix\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\CreateNewTransponatedMatrix\\Program.cs",
-              "RelativeToolTip": "CreateNewTransponatedMatrix\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\MinElementsWithoutFunc\\Program.cs",
+              "RelativeDocumentMoniker": "MinElementsWithoutFunc\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\MinElementsWithoutFunc\\Program.cs",
+              "RelativeToolTip": "MinElementsWithoutFunc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T19:39:14.989Z",
+              "WhenOpened": "2024-11-28T19:41:04.973Z",
               "EditorCaption": ""
             },
             {
@@ -45,18 +49,30 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\CreateNewTransponatedMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "CreateNewTransponatedMatrix\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\CreateNewTransponatedMatrix\\Program.cs",
+              "RelativeToolTip": "CreateNewTransponatedMatrix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:39:14.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\TMatrix\\Program.cs",
               "RelativeDocumentMoniker": "TMatrix\\Program.cs",
               "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\TMatrix\\Program.cs",
               "RelativeToolTip": "TMatrix\\Program.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAuwD0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T19:36:58.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T19:36:58.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\Matrix\\Matrix\\Program.cs",
               "RelativeDocumentMoniker": "Matrix\\Program.cs",
