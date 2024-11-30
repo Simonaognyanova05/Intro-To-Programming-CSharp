@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksForExam", "TasksForExa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfRowsAndCols", "SumOfRowsAndCols\SumOfRowsAndCols.csproj", "{23E97541-4D67-4C9C-8AE7-C696FE33CBE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЕlementsAboveTheMainDiag", "ЕlementsAboveTheMainDiag\ЕlementsAboveTheMainDiag.csproj", "{6651C0B6-FB53-4055-8A8B-7229700E1CD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{23E97541-4D67-4C9C-8AE7-C696FE33CBE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23E97541-4D67-4C9C-8AE7-C696FE33CBE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23E97541-4D67-4C9C-8AE7-C696FE33CBE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6651C0B6-FB53-4055-8A8B-7229700E1CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6651C0B6-FB53-4055-8A8B-7229700E1CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6651C0B6-FB53-4055-8A8B-7229700E1CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6651C0B6-FB53-4055-8A8B-7229700E1CD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

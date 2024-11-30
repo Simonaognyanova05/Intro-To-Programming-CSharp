@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ЕlementsAboveTheMainDiag\bin\Debug\ЕlementsAboveTheMainDiag.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ЕlementsAboveTheMainDiag\bin\Debug\ЕlementsAboveTheMainDiag.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ЕlementsAboveTheMainDiag\bin\Debug\ЕlementsAboveTheMainDiag.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ЕlementsAboveTheMainDiag\obj\Debug\ЕlementsAboveTheMainDiag.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ЕlementsAboveTheMainDiag\obj\Debug\ЕlementsAboveTheMainDiag.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ЕlementsAboveTheMainDiag\obj\Debug\ЕlementsAboveTheMainDiag.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ЕlementsAboveTheMainDiag\obj\Debug\ЕlementsAboveTheMainDiag.pdb
