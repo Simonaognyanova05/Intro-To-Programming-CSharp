@@ -1,0 +1,7 @@
+C:\Users\simon\source\repos\TasksForExam\TasksForExam\bin\Debug\TasksForExam.exe.config
+C:\Users\simon\source\repos\TasksForExam\TasksForExam\bin\Debug\TasksForExam.exe
+C:\Users\simon\source\repos\TasksForExam\TasksForExam\bin\Debug\TasksForExam.pdb
+C:\Users\simon\source\repos\TasksForExam\TasksForExam\obj\Debug\TasksForExam.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\TasksForExam\TasksForExam\obj\Debug\TasksForExam.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\TasksForExam\TasksForExam\obj\Debug\TasksForExam.exe
+C:\Users\simon\source\repos\TasksForExam\TasksForExam\obj\Debug\TasksForExam.pdb
