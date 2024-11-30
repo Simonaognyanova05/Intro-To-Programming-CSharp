@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfRowsAndCols\bin\Debug\SumOfRowsAndCols.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfRowsAndCols\bin\Debug\SumOfRowsAndCols.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfRowsAndCols\bin\Debug\SumOfRowsAndCols.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfRowsAndCols\obj\Debug\SumOfRowsAndCols.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfRowsAndCols\obj\Debug\SumOfRowsAndCols.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfRowsAndCols\obj\Debug\SumOfRowsAndCols.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfRowsAndCols\obj\Debug\SumOfRowsAndCols.pdb

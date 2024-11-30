@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\TasksForExam\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9475C051-77DC-4983-B0FB-E9492C6AEFA6}|TasksForExam\\TasksForExam.csproj|c:\\users\\simon\\source\\repos\\tasksforexam\\tasksforexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23E97541-4D67-4C9C-8AE7-C696FE33CBE3}|SumOfRowsAndCols\\SumOfRowsAndCols.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\tasksforexam\\sumofrowsandcols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E97541-4D67-4C9C-8AE7-C696FE33CBE3}|SumOfRowsAndCols\\SumOfRowsAndCols.csproj|solutionrelative:sumofrowsandcols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9475C051-77DC-4983-B0FB-E9492C6AEFA6}|TasksForExam\\TasksForExam.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\tasksforexam\\tasksforexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9475C051-77DC-4983-B0FB-E9492C6AEFA6}|TasksForExam\\TasksForExam.csproj|solutionrelative:tasksforexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +24,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\TasksForExam\\TasksForExam\\Program.cs",
-              "RelativeDocumentMoniker": "TasksForExam\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\TasksForExam\\TasksForExam\\Program.cs",
-              "RelativeToolTip": "TasksForExam\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEMAAAA0AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\SumOfRowsAndCols\\Program.cs",
+              "RelativeDocumentMoniker": "SumOfRowsAndCols\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\SumOfRowsAndCols\\Program.cs",
+              "RelativeToolTip": "SumOfRowsAndCols\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:50:22.948Z",
+              "WhenOpened": "2024-11-30T18:09:39.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\TasksForExam\\Program.cs",
+              "RelativeDocumentMoniker": "TasksForExam\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\TasksForExam\\Program.cs",
+              "RelativeToolTip": "TasksForExam\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:50:22.948Z",
+              "EditorCaption": ""
             }
           ]
         }
