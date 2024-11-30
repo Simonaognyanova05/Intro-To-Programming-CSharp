@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfNElements\bin\Debug\SumOfNElements.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfNElements\bin\Debug\SumOfNElements.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfNElements\bin\Debug\SumOfNElements.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfNElements\obj\Debug\SumOfNElements.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfNElements\obj\Debug\SumOfNElements.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfNElements\obj\Debug\SumOfNElements.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfNElements\obj\Debug\SumOfNElements.pdb
