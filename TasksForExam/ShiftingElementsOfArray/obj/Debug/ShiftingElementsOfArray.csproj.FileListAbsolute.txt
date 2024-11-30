@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ShiftingElementsOfArray\bin\Debug\ShiftingElementsOfArray.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ShiftingElementsOfArray\bin\Debug\ShiftingElementsOfArray.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ShiftingElementsOfArray\bin\Debug\ShiftingElementsOfArray.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ShiftingElementsOfArray\obj\Debug\ShiftingElementsOfArray.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ShiftingElementsOfArray\obj\Debug\ShiftingElementsOfArray.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ShiftingElementsOfArray\obj\Debug\ShiftingElementsOfArray.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ShiftingElementsOfArray\obj\Debug\ShiftingElementsOfArray.pdb
