@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfNumsFromMToN\bin\Debug\SumOfNumsFromMToN.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfNumsFromMToN\bin\Debug\SumOfNumsFromMToN.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfNumsFromMToN\bin\Debug\SumOfNumsFromMToN.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfNumsFromMToN\obj\Debug\SumOfNumsFromMToN.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfNumsFromMToN\obj\Debug\SumOfNumsFromMToN.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfNumsFromMToN\obj\Debug\SumOfNumsFromMToN.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\SumOfNumsFromMToN\obj\Debug\SumOfNumsFromMToN.pdb
