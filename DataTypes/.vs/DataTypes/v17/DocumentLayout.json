@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\DataTypes\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\DataTypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BCA1B4D-D4C9-46A0-AAE0-949D6E2C710E}|DataTypes\\DataTypes.csproj|c:\\users\\simon\\source\\repos\\datatypes\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12FEF12A-C511-483E-A941-533110CA4906}|Task 2\\Task 2.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\datatypes\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FEF12A-C511-483E-A941-533110CA4906}|Task 2\\Task 2.csproj|solutionrelative:task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCA1B4D-D4C9-46A0-AAE0-949D6E2C710E}|DataTypes\\DataTypes.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\datatypes\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BCA1B4D-D4C9-46A0-AAE0-949D6E2C710E}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +24,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\DataTypes\\DataTypes\\Program.cs",
-              "RelativeDocumentMoniker": "DataTypes\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\DataTypes\\DataTypes\\Program.cs",
-              "RelativeToolTip": "DataTypes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\DataTypes\\Task 2\\Program.cs",
+              "RelativeDocumentMoniker": "Task 2\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\DataTypes\\Task 2\\Program.cs",
+              "RelativeToolTip": "Task 2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T21:10:02.643Z",
+              "WhenOpened": "2024-12-06T21:13:33.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\DataTypes\\DataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "DataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\DataTypes\\DataTypes\\Program.cs",
+              "RelativeToolTip": "DataTypes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:10:02.643Z",
+              "EditorCaption": ""
             }
           ]
         }
