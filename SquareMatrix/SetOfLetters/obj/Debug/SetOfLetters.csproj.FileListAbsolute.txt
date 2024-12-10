@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\SquareMatrix\SetOfLetters\bin\Debug\SetOfLetters.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\SquareMatrix\SetOfLetters\bin\Debug\SetOfLetters.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\SquareMatrix\SetOfLetters\bin\Debug\SetOfLetters.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\SquareMatrix\SetOfLetters\obj\Debug\SetOfLetters.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\SquareMatrix\SetOfLetters\obj\Debug\SetOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\SquareMatrix\SetOfLetters\obj\Debug\SetOfLetters.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\SquareMatrix\SetOfLetters\obj\Debug\SetOfLetters.pdb

@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\SquareMatrix\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\SquareMatrix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B30702C9-C14C-44C2-B069-AC0DC52D06F7}|SquareMatrix\\SquareMatrix.csproj|c:\\users\\simon\\source\\repos\\squarematrix\\squarematrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ECC7609-09EB-4ED7-B588-088206AE7F75}|SetOfLetters\\SetOfLetters.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\squarematrix\\setofletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECC7609-09EB-4ED7-B588-088206AE7F75}|SetOfLetters\\SetOfLetters.csproj|solutionrelative:setofletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30702C9-C14C-44C2-B069-AC0DC52D06F7}|SquareMatrix\\SquareMatrix.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\squarematrix\\squarematrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B30702C9-C14C-44C2-B069-AC0DC52D06F7}|SquareMatrix\\SquareMatrix.csproj|solutionrelative:squarematrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +24,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\SquareMatrix\\SquareMatrix\\Program.cs",
-              "RelativeDocumentMoniker": "SquareMatrix\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\SquareMatrix\\SquareMatrix\\Program.cs",
-              "RelativeToolTip": "SquareMatrix\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\SquareMatrix\\SetOfLetters\\Program.cs",
+              "RelativeDocumentMoniker": "SetOfLetters\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\SquareMatrix\\SetOfLetters\\Program.cs",
+              "RelativeToolTip": "SetOfLetters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T19:44:08.02Z",
+              "WhenOpened": "2024-12-10T19:51:17.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\SquareMatrix\\SquareMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "SquareMatrix\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\SquareMatrix\\SquareMatrix\\Program.cs",
+              "RelativeToolTip": "SquareMatrix\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:44:08.02Z",
+              "EditorCaption": ""
             }
           ]
         }
