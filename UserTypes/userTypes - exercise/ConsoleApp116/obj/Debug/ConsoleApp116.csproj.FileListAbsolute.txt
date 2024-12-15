@@ -1,0 +1,7 @@
+C:\Users\vikto\source\repos\ConsoleApp116\ConsoleApp116\bin\Debug\ConsoleApp116.exe.config
+C:\Users\vikto\source\repos\ConsoleApp116\ConsoleApp116\bin\Debug\ConsoleApp116.exe
+C:\Users\vikto\source\repos\ConsoleApp116\ConsoleApp116\bin\Debug\ConsoleApp116.pdb
+C:\Users\vikto\source\repos\ConsoleApp116\ConsoleApp116\obj\Debug\ConsoleApp116.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\ConsoleApp116\ConsoleApp116\obj\Debug\ConsoleApp116.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\ConsoleApp116\ConsoleApp116\obj\Debug\ConsoleApp116.exe
+C:\Users\vikto\source\repos\ConsoleApp116\ConsoleApp116\obj\Debug\ConsoleApp116.pdb
