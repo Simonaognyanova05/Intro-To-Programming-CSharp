@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\MatrixFromFile\PathInAMaze\bin\Debug\PathInAMaze.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\MatrixFromFile\PathInAMaze\bin\Debug\PathInAMaze.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\MatrixFromFile\PathInAMaze\bin\Debug\PathInAMaze.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\MatrixFromFile\PathInAMaze\obj\Debug\PathInAMaze.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\MatrixFromFile\PathInAMaze\obj\Debug\PathInAMaze.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\MatrixFromFile\PathInAMaze\obj\Debug\PathInAMaze.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\MatrixFromFile\PathInAMaze\obj\Debug\PathInAMaze.pdb

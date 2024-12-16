@@ -5,3 +5,10 @@ C:\Users\simon\source\repos\MatrixFromFile\MatrixFromFile\obj\Debug\MatrixFromFi
 C:\Users\simon\source\repos\MatrixFromFile\MatrixFromFile\obj\Debug\MatrixFromFile.csproj.CoreCompileInputs.cache
 C:\Users\simon\source\repos\MatrixFromFile\MatrixFromFile\obj\Debug\MatrixFromFile.exe
 C:\Users\simon\source\repos\MatrixFromFile\MatrixFromFile\obj\Debug\MatrixFromFile.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\MatrixFromFile\MatrixFromFile\bin\Debug\MatrixFromFile.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\MatrixFromFile\MatrixFromFile\bin\Debug\MatrixFromFile.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\MatrixFromFile\MatrixFromFile\bin\Debug\MatrixFromFile.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\MatrixFromFile\MatrixFromFile\obj\Debug\MatrixFromFile.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\MatrixFromFile\MatrixFromFile\obj\Debug\MatrixFromFile.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\MatrixFromFile\MatrixFromFile\obj\Debug\MatrixFromFile.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\MatrixFromFile\MatrixFromFile\obj\Debug\MatrixFromFile.pdb
