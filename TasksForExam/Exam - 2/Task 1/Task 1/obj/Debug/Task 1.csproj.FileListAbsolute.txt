@@ -5,3 +5,10 @@ C:\Users\simon\source\repos\Task 1\Task 1\obj\Debug\Task 1.csproj.AssemblyRefere
 C:\Users\simon\source\repos\Task 1\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
 C:\Users\simon\source\repos\Task 1\Task 1\obj\Debug\Task 1.exe
 C:\Users\simon\source\repos\Task 1\Task 1\obj\Debug\Task 1.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\Exam - 2\Task 1\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\Exam - 2\Task 1\Task 1\bin\Debug\Task 1.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\Exam - 2\Task 1\Task 1\bin\Debug\Task 1.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\Exam - 2\Task 1\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\Exam - 2\Task 1\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\Exam - 2\Task 1\Task 1\obj\Debug\Task 1.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\Exam - 2\Task 1\Task 1\obj\Debug\Task 1.pdb

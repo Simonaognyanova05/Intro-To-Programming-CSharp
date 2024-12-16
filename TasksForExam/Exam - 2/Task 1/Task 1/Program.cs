@@ -17,16 +17,13 @@ namespace Task_1
             Console.WriteLine("Въведете името на файла: ");
             string fileName = Console.ReadLine();
 
-            try
-            {
-                int[] numbers = ReadArrayFromFile(fileName);
-                Console.WriteLine("Прочетен масив: ");
-                Console.WriteLine(string.Join(", ", numbers));
-            }
-            catch
-            {
-                Console.WriteLine("Файлът не е намерен!");    
-            }
+           
+            int[] numbers = ReadArrayFromFile(fileName);
+            Console.WriteLine("Прочетен масив: ");
+            Console.WriteLine(string.Join(", ", numbers));
+
+            bool isSorted = IsSorted(numbers);
+            Console.WriteLine(isSorted);
         }
 
         static int[] ReadArrayFromFile(string fileName)
@@ -44,5 +41,22 @@ namespace Task_1
             return numbers;
         }
 
+       static bool IsSorted(int[] numbers)
+       {
+            bool isSorted = false;
+
+            for (int i = 0; i < numbers.Length - 1; i++)
+            {
+                if (numbers[i] >= numbers[i + 1])
+                {
+                    isSorted = false;
+                }
+                else
+                {
+                    isSorted = true;
+                }
+            }
+            return isSorted;
+       }
     }
 }
