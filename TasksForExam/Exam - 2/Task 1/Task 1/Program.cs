@@ -24,7 +24,33 @@ namespace Task_1
 
             bool isSorted = IsSorted(numbers);
             Console.WriteLine(isSorted);
+
+            int countTriplets = CountTriplets(numbers);
+            Console.WriteLine(countTriplets);
         }
+
+        static int CountTriplets(int[] arr)
+        {
+            int count = 0;
+
+            for (int i = 0; i < arr.Length - 2; i++)
+            {
+                for (int j = i + 1; j < arr.Length - 1; j++)
+                {
+                    for (int k = j + 1; k < arr.Length; k++)
+                    {
+                        if (arr[i] == arr[j] && arr[j] == arr[k])
+                        {
+                            count++;
+                        }
+                    }
+                }
+            }
+
+            return count;
+        }
+
+
 
         static int[] ReadArrayFromFile(string fileName)
         {
@@ -41,7 +67,7 @@ namespace Task_1
             return numbers;
         }
 
-       static bool IsSorted(int[] numbers)
+        static bool IsSorted(int[] numbers)
        {
             bool isSorted = false;
 
