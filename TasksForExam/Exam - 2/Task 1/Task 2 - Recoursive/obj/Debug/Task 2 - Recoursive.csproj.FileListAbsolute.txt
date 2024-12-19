@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\Exam - 2\Task 1\Task 2 - Recoursive\bin\Debug\Task 2 - Recoursive.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\Exam - 2\Task 1\Task 2 - Recoursive\bin\Debug\Task 2 - Recoursive.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\Exam - 2\Task 1\Task 2 - Recoursive\bin\Debug\Task 2 - Recoursive.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\Exam - 2\Task 1\Task 2 - Recoursive\obj\Debug\Task 2 - Recoursive.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\Exam - 2\Task 1\Task 2 - Recoursive\obj\Debug\Task 2 - Recoursive.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\Exam - 2\Task 1\Task 2 - Recoursive\obj\Debug\Task 2 - Recoursive.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\Exam - 2\Task 1\Task 2 - Recoursive\obj\Debug\Task 2 - Recoursive.pdb

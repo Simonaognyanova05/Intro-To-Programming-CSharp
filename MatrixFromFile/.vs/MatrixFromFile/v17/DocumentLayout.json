@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{116C58A8-4333-4DB5-BDBF-CB39E58829E0}|PathInAMaze\\PathInAMaze.csproj|solutionrelative:pathinamaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D24F44D-40D7-4457-8D8B-1E164D45F1EE}|MatrixFromFile\\MatrixFromFile.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\matrixfromfile\\matrixfromfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D24F44D-40D7-4457-8D8B-1E164D45F1EE}|MatrixFromFile\\MatrixFromFile.csproj|C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\MatrixFromFile\\matrixfromfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D24F44D-40D7-4457-8D8B-1E164D45F1EE}|MatrixFromFile\\MatrixFromFile.csproj|solutionrelative:matrixfromfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,8 +47,7 @@
               "RelativeToolTip": "MatrixFromFile\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:59:52.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T21:59:52.273Z"
             }
           ]
         }

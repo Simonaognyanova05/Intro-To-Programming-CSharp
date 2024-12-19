@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1", "Task 1\Task 1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2", "Task 2\Task 2.csproj", "{E4F5BA47-5706-4B2E-AEF0-F35DEC869F0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2 - Recoursive", "Task 2 - Recoursive\Task 2 - Recoursive.csproj", "{9772708C-55F2-452E-ABCF-58BC10BFB580}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E4F5BA47-5706-4B2E-AEF0-F35DEC869F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4F5BA47-5706-4B2E-AEF0-F35DEC869F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4F5BA47-5706-4B2E-AEF0-F35DEC869F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9772708C-55F2-452E-ABCF-58BC10BFB580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9772708C-55F2-452E-ABCF-58BC10BFB580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9772708C-55F2-452E-ABCF-58BC10BFB580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9772708C-55F2-452E-ABCF-58BC10BFB580}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
