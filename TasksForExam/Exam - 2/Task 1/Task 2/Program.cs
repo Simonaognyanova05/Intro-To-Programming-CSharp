@@ -11,45 +11,28 @@ namespace Task_2
             Console.InputEncoding = Encoding.UTF8;
 
             Console.WriteLine("Въведете x:");
-            int x = int.Parse(Console.ReadLine());  
+            int x = int.Parse(Console.ReadLine());
 
-            if(x % 2 == 0)
-            {
-                Console.WriteLine("Резултат от четната функция: " + EvenFunction(x)); 
-            }
-            else
-            {
-                Console.WriteLine("Резултат от нечетната функция: " + OddFunction(x));
-            }
+            Console.WriteLine("Резултат: " + Iterative(x));
         }
 
-        static int EvenFunction(int x)
+        static int Iterative(int x)
         {
-            int result = x / 2;
             int br = 0;
-
-            while (result != 0)
+            while(x != 1)
             {
-                result = result / 2;
-                br++;
+                if(x % 2 == 0)
+                {
+                    x = x / 2;
+                    br++;
+                }
+                else
+                {
+                    x = x * 3 + 1;
+                    br++;
+                }
             }
-
-            return br;
-        }
-
-        static int OddFunction(int x)
-        {
-            int result = (x * 3) + 1;
-            int br = 0;
-
-            while (result != 0) 
-            {
-                result = (result * 3) + 1;
-
-                br++;
-            }
-
-            return br;
+            return br;  
         }
     }
 }
