@@ -16,31 +16,31 @@ namespace Task_2___Recoursive
             Console.WriteLine("Въведете x: ");
             int x = int.Parse(Console.ReadLine());
 
-            int result = Recursive(x, 0);
+            int result = Recursive(x);
             Console.WriteLine("Резултат: " + result);
         }
 
-        static int Recursive(int x, int br)
+        static int Recursive(int x)
         {
             if(x % 2 == 0)
             {
                 if (x == 1)
                 {
-                    return br;
+                    return 0;
                 }
 
-                return Recursive(x / 2, br + 1);
+                return 1 + Recursive(x / 2);
             }
             else
             {
                 if (x == 1)
                 {
-                    return br;
+                    return 0;
                 }
 
-                return Recursive(x * 3 + 1, br + 1);
+                return 1 + Recursive(x * 3 + 1);
+                
             }
-
         }
     }
 }
