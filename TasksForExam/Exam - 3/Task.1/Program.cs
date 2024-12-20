@@ -21,6 +21,8 @@ namespace Task._1
             int[] reversed = ReverseInplace(numbers);
             Console.WriteLine("New Result: " + string.Join(" ", reversed));
 
+            int mostCommon = MostCommonCount(numbers);
+            Console.WriteLine("Count of most common element: " + mostCommon);  
         }
 
         static int[] ReadArrayFromFile(string fileName)
@@ -42,6 +44,31 @@ namespace Task._1
             };
 
             return array;
-        }   
+        }
+
+        static int MostCommonCount(int[] numbers)
+        {
+            int maxBr = 0;
+
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                int currentBr = 0;
+
+                for (int j = 0; j < numbers.Length; j++)
+                {
+                    if (numbers[i] == numbers[j])
+                    {
+                        currentBr++;
+                    }
+                }
+
+                if (currentBr > maxBr)
+                {
+                    maxBr = currentBr;
+                }
+            }
+
+            return maxBr;   
+        }
     }
 }
