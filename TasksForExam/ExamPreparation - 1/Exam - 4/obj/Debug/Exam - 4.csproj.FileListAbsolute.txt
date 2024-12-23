@@ -1,0 +1,7 @@
+C:\Users\simon\source\repos\Exam - 4\Exam - 4\bin\Debug\Exam - 4.exe.config
+C:\Users\simon\source\repos\Exam - 4\Exam - 4\bin\Debug\Exam - 4.exe
+C:\Users\simon\source\repos\Exam - 4\Exam - 4\bin\Debug\Exam - 4.pdb
+C:\Users\simon\source\repos\Exam - 4\Exam - 4\obj\Debug\Exam - 4.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Exam - 4\Exam - 4\obj\Debug\Exam - 4.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Exam - 4\Exam - 4\obj\Debug\Exam - 4.exe
+C:\Users\simon\source\repos\Exam - 4\Exam - 4\obj\Debug\Exam - 4.pdb
