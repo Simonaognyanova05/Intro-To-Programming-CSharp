@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam - 4", "Exam - 4\Exam - 4.csproj", "{775CC54D-AA25-43AA-BFF9-42018E614965}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteMatrixIntoFile", "WriteMatrixIntoFile\WriteMatrixIntoFile.csproj", "{6FAE9F31-0C3C-4960-8270-87AA5805D375}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{775CC54D-AA25-43AA-BFF9-42018E614965}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{775CC54D-AA25-43AA-BFF9-42018E614965}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{775CC54D-AA25-43AA-BFF9-42018E614965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FAE9F31-0C3C-4960-8270-87AA5805D375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAE9F31-0C3C-4960-8270-87AA5805D375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAE9F31-0C3C-4960-8270-87AA5805D375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAE9F31-0C3C-4960-8270-87AA5805D375}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

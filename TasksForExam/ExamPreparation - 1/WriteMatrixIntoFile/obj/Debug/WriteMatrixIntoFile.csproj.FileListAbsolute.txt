@@ -1,0 +1,7 @@
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ExamPreparation - 1\WriteMatrixIntoFile\bin\Debug\WriteMatrixIntoFile.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ExamPreparation - 1\WriteMatrixIntoFile\bin\Debug\WriteMatrixIntoFile.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ExamPreparation - 1\WriteMatrixIntoFile\bin\Debug\WriteMatrixIntoFile.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ExamPreparation - 1\WriteMatrixIntoFile\obj\Debug\WriteMatrixIntoFile.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ExamPreparation - 1\WriteMatrixIntoFile\obj\Debug\WriteMatrixIntoFile.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ExamPreparation - 1\WriteMatrixIntoFile\obj\Debug\WriteMatrixIntoFile.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ExamPreparation - 1\WriteMatrixIntoFile\obj\Debug\WriteMatrixIntoFile.pdb
