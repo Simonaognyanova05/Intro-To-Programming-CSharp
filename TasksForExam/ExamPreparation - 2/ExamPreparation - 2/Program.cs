@@ -65,8 +65,10 @@ namespace ExamPreparation___2
 
             }
             PrintMatrix(matrix);
+
             bool isIdentity = CheckIdentity(matrix);
             Console.WriteLine(isIdentity);
+
         }
     }
 }
