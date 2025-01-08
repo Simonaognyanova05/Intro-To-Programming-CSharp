@@ -5,3 +5,10 @@ C:\Users\simon\source\repos\ExamPreparation - 2\ExamPreparation - 2\obj\Debug\Ex
 C:\Users\simon\source\repos\ExamPreparation - 2\ExamPreparation - 2\obj\Debug\ExamPreparation - 2.csproj.CoreCompileInputs.cache
 C:\Users\simon\source\repos\ExamPreparation - 2\ExamPreparation - 2\obj\Debug\ExamPreparation - 2.exe
 C:\Users\simon\source\repos\ExamPreparation - 2\ExamPreparation - 2\obj\Debug\ExamPreparation - 2.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ExamPreparation - 2\ExamPreparation - 2\bin\Debug\ExamPreparation - 2.exe.config
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ExamPreparation - 2\ExamPreparation - 2\bin\Debug\ExamPreparation - 2.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ExamPreparation - 2\ExamPreparation - 2\bin\Debug\ExamPreparation - 2.pdb
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ExamPreparation - 2\ExamPreparation - 2\obj\Debug\ExamPreparation - 2.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ExamPreparation - 2\ExamPreparation - 2\obj\Debug\ExamPreparation - 2.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ExamPreparation - 2\ExamPreparation - 2\obj\Debug\ExamPreparation - 2.exe
+C:\Users\simon\OneDrive\Desktop\Intro-To-Programming-CSharp\TasksForExam\ExamPreparation - 2\ExamPreparation - 2\obj\Debug\ExamPreparation - 2.pdb

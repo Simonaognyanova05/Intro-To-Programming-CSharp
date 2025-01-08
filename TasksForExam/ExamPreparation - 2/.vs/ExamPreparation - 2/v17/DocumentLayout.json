@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\ExamPreparation - 2\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\ExamPreparation - 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C283800-DE70-4EDF-8F30-2F99040C5943}|ExamPreparation - 2\\ExamPreparation - 2.csproj|c:\\users\\simon\\source\\repos\\exampreparation - 2\\exampreparation - 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C283800-DE70-4EDF-8F30-2F99040C5943}|ExamPreparation - 2\\ExamPreparation - 2.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\tasksforexam\\exampreparation - 2\\exampreparation - 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C283800-DE70-4EDF-8F30-2F99040C5943}|ExamPreparation - 2\\ExamPreparation - 2.csproj|solutionrelative:exampreparation - 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\ExamPreparation - 2\\ExamPreparation - 2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\ExamPreparation - 2\\ExamPreparation - 2\\Program.cs",
               "RelativeDocumentMoniker": "ExamPreparation - 2\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\ExamPreparation - 2\\ExamPreparation - 2\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\ExamPreparation - 2\\ExamPreparation - 2\\Program.cs",
               "RelativeToolTip": "ExamPreparation - 2\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T19:30:31.455Z",
+              "WhenOpened": "2025-01-08T20:28:09.455Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

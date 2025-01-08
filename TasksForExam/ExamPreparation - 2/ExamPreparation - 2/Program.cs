@@ -20,9 +20,30 @@ namespace ExamPreparation___2
                 Console.WriteLine();
             }
         }
+
+        static bool CheckIdentity(decimal[,] matrix)
+        {
+            if(matrix.GetLength(0) != matrix.GetLength(1))
+            {
+                return false;
+            }
+
+            for(int i = 0; i < matrix.GetLength(0); i++)
+            {
+                for(int j = 0; j < matrix.GetLength(1); j++)
+                {
+                    if((i == j && matrix[i,j] != 1) || (i != j && matrix[i, j] != 0))
+                    {
+                        return false;
+                    }
+                }
+            }
+
+            return true;
+        }
         static void Main(string[] args)
         {
-            string filePath = "C:\\Users\\simon\\source\\repos\\ExamPreparation - 2\\ExamPreparation - 2\\matrix.txt";
+            string filePath = "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\ExamPreparation - 2\\ExamPreparation - 2\\matrix.txt";
 
             decimal[,] matrix;
 
@@ -44,6 +65,8 @@ namespace ExamPreparation___2
 
             }
             PrintMatrix(matrix);
+            bool isIdentity = CheckIdentity(matrix);
+            Console.WriteLine(isIdentity);
         }
     }
 }
