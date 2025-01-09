@@ -82,6 +82,32 @@ namespace ExamPreparation___2
             }
             PrintMatrix(matrix);
         }
+
+        static void SortMatrix(decimal[,] matrix)
+        {
+            for(int i = 0; i < matrix.GetLength(1); i++)
+            {
+                bool sorted = true;
+
+                do
+                {
+                    for(int j = 1; j < matrix.GetLength(0); j++)
+                    {
+                        if((i % 2  == 0 && matrix[j, i]  < matrix[j - 1, i]) 
+                            || 
+                            (i % 2 != 0 && matrix[j, i] > matrix[j -1, i]))
+                        {
+                            decimal temp = matrix[j, i];
+                            matrix[i, j] = matrix[j - 1, i];
+                            matrix[j-1, i] = temp;
+                        }
+                    }
+                }
+                while(!sorted);
+            }
+
+            PrintMatrix(matrix);
+        }
         static void Main(string[] args)
         {
             string filePath = "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\ExamPreparation - 2\\ExamPreparation - 2\\matrix.txt";
@@ -113,6 +139,8 @@ namespace ExamPreparation___2
 
             decimal sumOfNegative = SumOfNegativeOnAntiDiagonal(matrix);
             Console.WriteLine(sumOfNegative);
+
+            SortMatrix(matrix);
 
             NormalizeRows(matrix);
         }
