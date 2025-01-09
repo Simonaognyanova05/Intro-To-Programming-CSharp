@@ -60,6 +60,28 @@ namespace ExamPreparation___2
 
             return sum;
         }
+
+        static void NormalizeRows(decimal[,] matrix)
+        {
+            for(int i = 0; i < matrix.GetLength(0); i++)
+            {
+                decimal sumOfRowsElement = 0;
+                for(int j = 0; j < matrix.GetLength(1); j++)
+                {
+                    sumOfRowsElement += matrix[i, j] * matrix[i, j];
+                }
+                sumOfRowsElement = (decimal)Math.Sqrt((double)sumOfRowsElement);
+
+                for(int j = 0; j < matrix.GetLength(1); j++)
+                {
+                    if (matrix[i, j] != 0)
+                    {
+                        matrix[i, j] /= sumOfRowsElement;
+                    }
+                }
+            }
+            PrintMatrix(matrix);
+        }
         static void Main(string[] args)
         {
             string filePath = "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\ExamPreparation - 2\\ExamPreparation - 2\\matrix.txt";
@@ -91,6 +113,8 @@ namespace ExamPreparation___2
 
             decimal sumOfNegative = SumOfNegativeOnAntiDiagonal(matrix);
             Console.WriteLine(sumOfNegative);
+
+            NormalizeRows(matrix);
         }
     }
 }
