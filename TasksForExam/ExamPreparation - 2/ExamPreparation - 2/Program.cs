@@ -41,34 +41,56 @@ namespace ExamPreparation___2
 
             return true;
         }
+
+        static decimal SumOfNegativeOnAntiDiagonal(decimal[,] matrix)
+        {
+            if(matrix.GetLength(0) != matrix.GetLength(1))
+            {
+                throw new Exception("Matrix is not square!");
+            }
+            decimal sum = 0;
+
+            for(int i = 0; i < matrix.GetLength(0); i++)
+            {
+                if (matrix[i, matrix.GetLength(1) - 1 - i] < 0)
+                {
+                    sum += matrix[i, matrix.GetLength(1) - 1 - i];
+                }
+            }
+
+            return sum;
+        }
         static void Main(string[] args)
         {
             string filePath = "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\ExamPreparation - 2\\ExamPreparation - 2\\matrix.txt";
 
             decimal[,] matrix;
 
-            using (var f = File.OpenText(filePath))
+            var f = File.OpenText(filePath);
+         
+            int rows = int.Parse(f.ReadLine());
+            int cols = int.Parse(f.ReadLine());
+
+            matrix = new decimal[rows, cols];
+
+            for (int i = 0; i < rows; i++)
             {
-                int rows = int.Parse(f.ReadLine());
-                int cols = int.Parse(f.ReadLine());
-
-                matrix = new decimal[rows, cols];
-
-                for (int i = 0; i < rows; i++)
+                var elements = f.ReadLine().Split('\t');
+                    
+                for (int j = 0; j < cols; j++)
                 {
-                    var elements = f.ReadLine().Split('\t');
-                    for (int j = 0; j < cols; j++)
-                    {
-                        matrix[i, j] = decimal.Parse(elements[j]);
-                    }
+                    matrix[i, j] = decimal.Parse(elements[j]);
+                    
                 }
-
+                
             }
             PrintMatrix(matrix);
 
             bool isIdentity = CheckIdentity(matrix);
             Console.WriteLine(isIdentity);
 
+            decimal sumOfNegative = SumOfNegativeOnAntiDiagonal(matrix);
+            Console.WriteLine(sumOfNegative);
         }
     }
 }
