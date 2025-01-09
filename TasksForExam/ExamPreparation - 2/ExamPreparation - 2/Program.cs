@@ -85,28 +85,29 @@ namespace ExamPreparation___2
 
         static void SortMatrix(decimal[,] matrix)
         {
-            for(int i = 0; i < matrix.GetLength(1); i++)
+            for(int col = 0; col < matrix.GetLength(1); col++)
             {
-                bool sorted = true;
+                bool sorted;
 
                 do
                 {
-                    for(int j = 1; j < matrix.GetLength(0); j++)
+                    sorted = true;
+                    for(int row = 1; row < matrix.GetLength(0); row++)
                     {
-                        if((i % 2  == 0 && matrix[j, i]  < matrix[j - 1, i]) 
+                        if((col % 2  == 0 && matrix[row, col]  < matrix[row - 1, col]) 
                             || 
-                            (i % 2 != 0 && matrix[j, i] > matrix[j -1, i]))
+                            (col % 2 != 0 && matrix[row, col] > matrix[row - 1, col]))
                         {
-                            decimal temp = matrix[j, i];
-                            matrix[i, j] = matrix[j - 1, i];
-                            matrix[j-1, i] = temp;
+                            decimal temp = matrix[row, col];
+                            matrix[row, col] = matrix[row - 1, col];
+                            matrix[row - 1, col] = temp;
+
+                            sorted = false;
                         }
                     }
                 }
                 while(!sorted);
             }
-
-            PrintMatrix(matrix);
         }
         static void Main(string[] args)
         {
@@ -141,6 +142,8 @@ namespace ExamPreparation___2
             Console.WriteLine(sumOfNegative);
 
             SortMatrix(matrix);
+            PrintMatrix(matrix);
+
 
             NormalizeRows(matrix);
         }
