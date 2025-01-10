@@ -11,6 +11,10 @@ namespace ExamPeparation___3
     {
         static int[,] ReadMatrix(string pathName)
         {
+            if (!File.Exists(pathName))
+            {
+                throw new Exception("File does not exists!");
+            }
             string[] lines = File.ReadAllLines(pathName);
             string[] rowValues = (lines[0].Split('\t'));
 
@@ -40,9 +44,11 @@ namespace ExamPeparation___3
                 Console.WriteLine();
             }
         }
+
         static void Main(string[] args)
         {
             string filePath = "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\ExamPeparation - 3\\ExamPeparation - 3\\matrix.txt";
+
 
             int[,] matrix = ReadMatrix(filePath);
             PrintMatrix(matrix);

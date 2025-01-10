@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\ExamPeparation - 3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{52BF20FE-C9F2-4BCD-8F7A-D5D74A6004CD}|Task. 2\\Task. 2.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\tasksforexam\\exampeparation - 3\\task. 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BF20FE-C9F2-4BCD-8F7A-D5D74A6004CD}|Task. 2\\Task. 2.csproj|solutionrelative:task. 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{682E33DD-2E01-46C0-B1A8-3ADA92986632}|ExamPeparation - 3\\ExamPeparation - 3.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\tasksforexam\\exampeparation - 3\\exampeparation - 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{682E33DD-2E01-46C0-B1A8-3ADA92986632}|ExamPeparation - 3\\ExamPeparation - 3.csproj|solutionrelative:exampeparation - 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\ExamPeparation - 3\\Task. 2\\Program.cs",
+              "RelativeDocumentMoniker": "Task. 2\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\ExamPeparation - 3\\Task. 2\\Program.cs",
+              "RelativeToolTip": "Task. 2\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:58:47.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\ExamPeparation - 3\\ExamPeparation - 3\\Program.cs",
               "RelativeDocumentMoniker": "ExamPeparation - 3\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\ExamPeparation - 3\\ExamPeparation - 3\\Program.cs*",
-              "RelativeToolTip": "ExamPeparation - 3\\Program.cs*",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAADAAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\ExamPeparation - 3\\ExamPeparation - 3\\Program.cs",
+              "RelativeToolTip": "ExamPeparation - 3\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T14:04:27.325Z",
               "EditorCaption": ""
