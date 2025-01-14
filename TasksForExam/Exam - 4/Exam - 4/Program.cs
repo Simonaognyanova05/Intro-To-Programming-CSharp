@@ -23,11 +23,25 @@ namespace Exam___4
             return newArray;
         }
 
+        static int LargestNegative(int[] array)
+        {
+            int maxNegative = 0;
+            foreach(int i in array)
+            {
+                if(i < 0 && (maxNegative == 0 || i > maxNegative))
+                {
+                    maxNegative = i;
+                }
+            }
+            return maxNegative;
+        }
         static void Main(string[] args)
         {
             string path = Console.ReadLine();
 
-            Console.WriteLine(string.Join(" ", ReadArrayFromFile(path)));
+            int[] array = ReadArrayFromFile(path);
+            Console.WriteLine(string.Join(" ", array));
+            Console.WriteLine(LargestNegative(array));
         }
     }
 }
