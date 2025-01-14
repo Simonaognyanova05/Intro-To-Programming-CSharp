@@ -35,6 +35,20 @@ namespace Exam___4
             }
             return maxNegative;
         }
+
+        static int[] RotateRigth(int[] array)
+        {
+            int lastElement = array[array.Length - 1];
+
+            for(int i = array.Length - 1; i > 0; i--)
+            {
+                array[i] = array[i - 1];
+            }
+
+            array[0] = lastElement;
+
+            return array;   
+        }
         static void Main(string[] args)
         {
             string path = Console.ReadLine();
@@ -42,6 +56,8 @@ namespace Exam___4
             int[] array = ReadArrayFromFile(path);
             Console.WriteLine(string.Join(" ", array));
             Console.WriteLine(LargestNegative(array));
+            Console.WriteLine(string.Join(" ", RotateRigth(array)));
+
         }
     }
 }
