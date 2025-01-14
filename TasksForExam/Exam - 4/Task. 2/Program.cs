@@ -49,6 +49,24 @@ namespace Task._2
             return columnMaxes; 
         }
 
+        static void GetMinMax(int[] array, out int min, out int max)
+        {
+            min = array[0];
+            max = array[0];
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (min > array[i])
+                {
+                    min = array[i];
+                }
+                if (max < array[i])
+                {
+                    max = array[i];
+                }
+            }
+        }
+
         static void PrintMatrix(int[,] matrix)
         {
             for (int i = 0; i < matrix.GetLength(0); i++)
@@ -68,7 +86,11 @@ namespace Task._2
             int[,] matrix = ReadTriangleMatrix(n);
             PrintMatrix(matrix);
 
-            Console.WriteLine(string.Join(" ", GetColumnsMax(matrix)));
+            int[] array = GetColumnsMax(matrix);
+            Console.WriteLine(string.Join(" ", array));
+            GetMinMax(array, out int min, out int max);
+
+            Console.WriteLine($"Min: {min}, Max: {max}");   
         }
     }
 }

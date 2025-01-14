@@ -49,6 +49,8 @@ namespace Exam___4
 
             return array;   
         }
+
+        
         static void Main(string[] args)
         {
             string path = Console.ReadLine();
@@ -57,7 +59,6 @@ namespace Exam___4
             Console.WriteLine(string.Join(" ", array));
             Console.WriteLine(LargestNegative(array));
             Console.WriteLine(string.Join(" ", RotateRigth(array)));
-
         }
     }
 }
