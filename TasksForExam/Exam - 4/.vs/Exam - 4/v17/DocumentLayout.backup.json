@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\Exam - 4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6E4661C-F7EF-47B4-BCBE-213A0711B2A3}|Task. 2\\Task. 2.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\tasksforexam\\exam - 4\\task. 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E4661C-F7EF-47B4-BCBE-213A0711B2A3}|Task. 2\\Task. 2.csproj|solutionrelative:task. 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6992E33-AA53-4911-A488-F36C7C8D2738}|Exam - 4\\Exam - 4.csproj|C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\Exam - 4\\exam - 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6992E33-AA53-4911-A488-F36C7C8D2738}|Exam - 4\\Exam - 4.csproj|solutionrelative:exam - 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,26 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\Exam - 4\\Task. 2\\Program.cs",
-              "RelativeDocumentMoniker": "Task. 2\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\Exam - 4\\Task. 2\\Program.cs",
-              "RelativeToolTip": "Task. 2\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T19:31:57.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\Exam - 4\\Exam - 4\\Program.cs",
               "RelativeDocumentMoniker": "Exam - 4\\Program.cs",
               "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\Exam - 4\\Exam - 4\\Program.cs",
               "RelativeToolTip": "Exam - 4\\Program.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAuwDEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T18:21:22.566Z"
+              "WhenOpened": "2025-01-14T18:21:22.566Z",
+              "EditorCaption": ""
             }
           ]
         }
