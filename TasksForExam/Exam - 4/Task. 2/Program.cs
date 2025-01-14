@@ -26,6 +26,31 @@ namespace Task._2
             return matrix;
         }
 
+        static int GetColumnsMax(int[,] matrix)
+        {
+            int globalMax = matrix[0, 0];
+
+            for (int cols = 0; cols < matrix.GetLength(1); cols++)
+            {
+                int columnMax = matrix[0, cols];
+
+                for (int row = 1; row < matrix.GetLength(0); row++)
+                {
+                    if (matrix[row, cols] > columnMax)
+                    {
+                        columnMax = matrix[row, cols];
+                    }
+                }
+
+                if (columnMax > globalMax)
+                {
+                    globalMax = columnMax;
+                }
+            }
+
+            return globalMax;
+        }
+
         static void PrintMatrix(int[,] matrix)
         {
             for (int i = 0; i < matrix.GetLength(0); i++)
@@ -44,6 +69,8 @@ namespace Task._2
 
             int[,] matrix = ReadTriangleMatrix(n);
             PrintMatrix(matrix);
+
+            Console.WriteLine(GetColumnsMax(matrix));    
         }
     }
 }
