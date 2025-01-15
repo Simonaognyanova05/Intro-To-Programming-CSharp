@@ -24,12 +24,39 @@ namespace Task._2
 
             return nums;
         }
+
+        static double[] MoveZeros(double[] nums)
+        {
+            int position = 0;
+
+            for(int i = 0; i < nums.Length; i++)
+            {
+                if (nums[i] != 0)
+                {
+                    nums[position] = nums[i];
+                    position++;
+                }
+            }
+
+            for(int i = position; i < nums.Length; i++)
+            {
+                nums[i] = 0;
+            }
+
+            return nums;
+        }
+
         static void Main(string[] args)
         {
             string path = Console.ReadLine();
 
             double[] array = ReadArrayFromFile(path);
             Console.WriteLine(string.Join(" ", array));
+
+            double[] movedZeros = MoveZeros(array);
+            Console.WriteLine(string.Join(" ", movedZeros));
+
+
         }
     }
 }
