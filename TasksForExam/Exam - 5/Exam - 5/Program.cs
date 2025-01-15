@@ -60,20 +60,52 @@ namespace Exam___5
 
             return sums;
         }
+
+        static int GetCountPrimes(int[] array)
+        {
+            int primeCount = 0;
+
+            foreach(int num in array)
+            {
+                if(num < 2)
+                {
+                    continue;
+                }
+
+                bool isPrime = true;
+                for(int i = 2; i * i <= num; i++)
+                {
+                    if(num % i == 0)
+                    {
+                        isPrime = false;
+                        break;
+                    }
+                }
+
+                if (isPrime)
+                {
+                    primeCount++;
+                }
+            }
+            return primeCount;
+        }
+
         static void Main(string[] args)
         {
             int[,] matrix =
             {
-                {1, 2, 3 },
-                {4, 5, 6 },
+                {1, 1, 0 },
+                {4, 5, 4 },
                 {6, 7, 8 },
             };
 
-            int[,] newMatrix = InitMatrix(matrix);
-            PrintMatrix(newMatrix);
+            //int[,] newMatrix = InitMatrix(matrix);
+            //PrintMatrix(newMatrix);
 
             int[] sumOfrows = GetRowsSum(matrix);
             Console.WriteLine(string.Join(" ", sumOfrows));
+
+            Console.WriteLine(GetCountPrimes(sumOfrows));
         }
     }
 }
