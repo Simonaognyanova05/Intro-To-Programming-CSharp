@@ -46,6 +46,26 @@ namespace Task._2
             return nums;
         }
 
+        static bool DivideByAbsMax(double[] array)
+        {
+            double maxAbsElement = 0;
+            bool isDivide = false;
+            for(int i = 0; i < array.Length; i++)
+            {
+                if(array[i] > maxAbsElement)
+                {
+                    maxAbsElement = array[i];
+                }
+                if (array[i] == 0)
+                {
+                    return false;
+                }
+
+                array[i] /= maxAbsElement;
+                isDivide = true;
+            }
+            return isDivide;
+        }
         static void Main(string[] args)
         {
             string path = Console.ReadLine();
@@ -56,7 +76,8 @@ namespace Task._2
             double[] movedZeros = MoveZeros(array);
             Console.WriteLine(string.Join(" ", movedZeros));
 
-
+            bool devidedByAbsMax = DivideByAbsMax(array);
+            Console.WriteLine(devidedByAbsMax);
         }
     }
 }
