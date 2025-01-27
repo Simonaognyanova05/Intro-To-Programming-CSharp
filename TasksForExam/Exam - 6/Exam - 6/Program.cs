@@ -8,29 +8,30 @@ namespace Exam___6
 {
     class Program
     {
-        static void ReadTriangleMatrix(int[,] matrix, int N)
+        static int[,] ReadTriangleMatrix(int n)
         {
-            Console.WriteLine("Въведете елементите на горната триъгълна матрица:");
+            int[,] matrix = new int[n, n];
 
-            for (int i = 0; i < N; i++)
+            for (int i = 0; i < n; i++)
             {
-                for (int j = i; j < N; j++) 
+                for (int j = i; j < n; j++)
                 {
-                    Console.Write($"matrix[{i},{j}] = ");
                     matrix[i, j] = int.Parse(Console.ReadLine());
                 }
             }
+
+            return matrix;
         }
 
-        static int[] GetColumnsMax(int[,] matrix, int N)
+        static int[] GetColumnsMax(int[,] matrix)
         {
-            int[] columnMax = new int[N];
+            int[] maxElements = new int[matrix.GetLength(1)];
 
-            for (int j = 0; j < N; j++)
+            for (int j = 0; j < matrix.GetLength(1); j++)
             {
                 int max = matrix[0, j];
 
-                for (int i = 1; i < N; i++) 
+                for (int i = 0; i < matrix.GetLength(0); i++)
                 {
                     if (matrix[i, j] > max)
                     {
@@ -38,62 +39,54 @@ namespace Exam___6
                     }
                 }
 
-                columnMax[j] = max;
+                maxElements[j] = max;
             }
 
-            return columnMax;
+            return maxElements;
         }
 
-        static void GetMinMax(int[] columnMax, out int min, out int max)
+        static void GetMinMax(int[] array, out int min, out int max)
         {
-            min = columnMax[0];
-            max = columnMax[0];
+            min = array[0];
+            max = array[0];
 
-            foreach (int value in columnMax)
+            for (int i = 1; i < array.Length; i++)
             {
-                if (value < min)
-                    min = value;
-                if (value > max)
-                    max = value;
-            }
-        }
+                if (min > array[i])
+                {
+                    min = array[i];
+                }
 
+                if (max < array[i])
+                {
+                    max = array[i];
+                }
+            }
+
+        }
         static void PrintMatrix(int[,] matrix)
         {
-            for(int i = 0; i < matrix.GetLength(0); i++)
+            for (int i = 0; i < matrix.GetLength(0); i++)
             {
-                for(int j = 0; j < matrix.GetLength(1); j++)
+                for (int j = 0; j < matrix.GetLength(1); j++)
                 {
                     Console.Write(matrix[i, j] + " ");
                 }
                 Console.WriteLine();
             }
         }
-
-        static void Main()
+        static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
-            Console.Write("Въведете размера на матрицата (N): ");
-            int N = int.Parse(Console.ReadLine());
-
-            int[,] matrix = new int[N, N];
-
-            ReadTriangleMatrix(matrix, N);
-
-            int[] columnMax = GetColumnsMax(matrix, N);
-
-            Console.WriteLine("Максималните стойности по стълбове:");
-            for (int i = 0; i < N; i++)
-            {
-                Console.WriteLine($"Стълб {i}: {columnMax[i]}");
-            }
-
-            GetMinMax(columnMax, out int min, out int max);
-
-            Console.WriteLine($"Минимална стойност: {min}");
-            Console.WriteLine($"Максимална стойност: {max}");
+            int n = int.Parse(Console.ReadLine());
+            int[,] matrix = ReadTriangleMatrix(n);
 
             PrintMatrix(matrix);
+
+            Console.WriteLine(string.Join(" ", GetColumnsMax(matrix)));
+
+            GetMinMax(GetColumnsMax(matrix), out int min, out int max);
+
+            Console.WriteLine(min + " " + max);
         }
     }
 }

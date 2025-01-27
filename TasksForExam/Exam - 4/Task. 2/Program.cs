@@ -11,15 +11,12 @@ namespace Task._2
         static int[,] ReadTriangleMatrix(int n)
         {
             int[,] matrix = new int[n, n];
-            Console.WriteLine($"Въведете елементите на горната триъгълна матрица, разделени с интервал (само над главния диагонал):");
 
             for (int i = 0; i < n; i++)
             {
-                string[] rowElements = Console.ReadLine().Split(' ');
-
                 for (int j = i; j < n; j++)
                 {
-                    matrix[i, j] = int.Parse(rowElements[j - i]);
+                    matrix[i, j] = int.Parse(Console.ReadLine());
                 }
             }
 
@@ -28,25 +25,24 @@ namespace Task._2
 
         static int[] GetColumnsMax(int[,] matrix)
         {
-            int cols = matrix.GetLength(1);
-            int rows = matrix.GetLength(0);
-            int[] columnMaxes = new int[cols]; 
+            int[] maxElements = new int[matrix.GetLength(1)];
 
-            for (int col = 0; col < cols; col++)
+            for (int j = 0; j < matrix.GetLength(1); j++)
             {
-                int columnMax = matrix[0, col];
-                for (int row = 1; row < rows; row++)
+                int max = matrix[0, j];
+
+                for (int i = 0; i < matrix.GetLength(0); i++)
                 {
-                    if (matrix[row, col] > columnMax)
+                    if (matrix[i, j] > max)
                     {
-                        columnMax = matrix[row, col]; 
+                        max = matrix[i, j];
                     }
                 }
 
-                columnMaxes[col] = columnMax; 
+                maxElements[j] = max;
             }
 
-            return columnMaxes; 
+            return maxElements;
         }
 
         static void GetMinMax(int[] array, out int min, out int max)
@@ -54,19 +50,20 @@ namespace Task._2
             min = array[0];
             max = array[0];
 
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 1; i < array.Length; i++)
             {
                 if (min > array[i])
                 {
                     min = array[i];
                 }
+
                 if (max < array[i])
                 {
                     max = array[i];
                 }
             }
-        }
 
+        }
         static void PrintMatrix(int[,] matrix)
         {
             for (int i = 0; i < matrix.GetLength(0); i++)
@@ -80,17 +77,16 @@ namespace Task._2
         }
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
             int n = int.Parse(Console.ReadLine());
-
             int[,] matrix = ReadTriangleMatrix(n);
+
             PrintMatrix(matrix);
 
-            int[] array = GetColumnsMax(matrix);
-            Console.WriteLine(string.Join(" ", array));
-            GetMinMax(array, out int min, out int max);
+            Console.WriteLine(string.Join(" ", GetColumnsMax(matrix)));
 
-            Console.WriteLine($"Min: {min}, Max: {max}");   
+            GetMinMax(GetColumnsMax(matrix), out int min, out int max);
+
+            Console.WriteLine(min + " " + max);
         }
     }
 }
