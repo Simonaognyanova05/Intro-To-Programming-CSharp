@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simon\\source\\repos\\Exam - 6\\",
+  "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\Exam - 6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C0136B2-46BF-4B72-9E70-5F08E2F5CC7D}|Exam - 6\\Exam - 6.csproj|c:\\users\\simon\\source\\repos\\exam - 6\\exam - 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B33FF8CB-5999-4E15-9186-F0529B51ECF1}|Task. 2\\Task. 2.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\tasksforexam\\exam - 6\\task. 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33FF8CB-5999-4E15-9186-F0529B51ECF1}|Task. 2\\Task. 2.csproj|solutionrelative:task. 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0136B2-46BF-4B72-9E70-5F08E2F5CC7D}|Exam - 6\\Exam - 6.csproj|c:\\users\\simon\\onedrive\\desktop\\intro-to-programming-csharp\\tasksforexam\\exam - 6\\exam - 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C0136B2-46BF-4B72-9E70-5F08E2F5CC7D}|Exam - 6\\Exam - 6.csproj|solutionrelative:exam - 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +24,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simon\\source\\repos\\Exam - 6\\Exam - 6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\Exam - 6\\Task. 2\\Program.cs",
+              "RelativeDocumentMoniker": "Task. 2\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\Exam - 6\\Task. 2\\Program.cs",
+              "RelativeToolTip": "Task. 2\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAHEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:22:03.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\Exam - 6\\Exam - 6\\Program.cs",
               "RelativeDocumentMoniker": "Exam - 6\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\source\\repos\\Exam - 6\\Exam - 6\\Program.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\Exam - 6\\Exam - 6\\Program.cs",
               "RelativeToolTip": "Exam - 6\\Program.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAkwCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
