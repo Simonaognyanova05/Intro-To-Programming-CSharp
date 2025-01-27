@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,14 +11,14 @@ namespace Task._2
     {
         static char FirstNonRepeated(string text)
         {
-            for (int i = 0; i < text.Length; i++)
+            for(int i = 0; i < text.Length; i++)
             {
                 char current = text[i];
                 bool isRepeated = false;
 
-                for (int j = 0; j < text.Length; j++)
+                for(int j = 0; j < text.Length; j++)
                 {
-                    if (i != j && text[j] == current)
+                    if(i != j && text[j] == current)
                     {
                         isRepeated = true;
                         break;
@@ -35,83 +36,63 @@ namespace Task._2
 
         static string StringCompression(string text)
         {
-            if (text == null || text.Length == 0)
-            {
-                return text;
-            }
-
             string result = "";
-            int count = 1;  
+            int count = 1;
 
-            for (int i = 1; i < text.Length; i++)
+            for(int i = 1; i < text.Length; i++)
             {
-                if (text[i] == text[i - 1])  
+                if (text[i] == text[i - 1])
                 {
-                    count++; 
+                    count++;
                 }
                 else
                 {
-                    result += count > 1 ? count.ToString() + text[i - 1] : text[i - 1].ToString();
-                    count = 1;  
+                    result += count > 1 ? count.ToString() + text[i - 1].ToString() : text[i - 1].ToString();
+                    count = 1;
                 }
             }
 
             result += count > 1 ? count.ToString() + text[text.Length - 1] : text[text.Length - 1].ToString();
-
             return result;
         }
 
-        static bool MissingNumber(int[] arr, out int missingNumber)
+        static bool MissingNumber(int[] array, out int missing)
         {
-            missingNumber = -1;
-
-            if (arr == null || arr.Length == 0)
-                return false;
-
-            for (int i = 0; i < arr.Length - 1; i++)
+            for(int i = 0; i < array.Length - 1; i++)
             {
-                for (int j = 0; j < arr.Length - i - 1; j++)
+                for(int j = 0; j < array.Length - i - 1; j++)
                 {
-                    if (arr[j] > arr[j + 1])
+                    if (array[j] > array[j + 1])
                     {
-                        int temp = arr[j];
-                        arr[j] = arr[j + 1];
-                        arr[j + 1] = temp;
+                        int temp = array[j];
+                        array[j] = array[j + 1];
+                        array[j + 1] = temp;
                     }
                 }
             }
 
-            for (int i = arr[0]; i < arr[arr.Length - 1]; i++)
+            missing = -1;
+            for(int i = 0; i < array.Length; i++)
             {
-                bool found = false;
-
-                for (int j = 0; j < arr.Length; j++)
+                if (array[i] + 1 != array[i + 1])
                 {
-                    if (arr[j] == i)
-                    {
-                        found = true;
-                        break;
-                    }
-                }
-
-                if (!found)
-                {
-                    missingNumber = i;
+                    missing = array[i] + 1;
                     return true;
                 }
             }
-
             return false;
         }
-
-
         static void Main()
         {
-            Console.OutputEncoding = Encoding.UTF8;
-
-            Console.WriteLine(FirstNonRepeated("the sick brown fox jumps over the lazy dog"));
+            char repeated = FirstNonRepeated("simona is one ame");
+            Console.WriteLine(repeated);
 
             Console.WriteLine(StringCompression("successss"));
+
+            int[] array = { 3, 5, 4, 6, 8 };
+            bool missing = MissingNumber(array, out int miss);
+
+            Console.WriteLine(missing + " " + miss);
         }
     }
 }

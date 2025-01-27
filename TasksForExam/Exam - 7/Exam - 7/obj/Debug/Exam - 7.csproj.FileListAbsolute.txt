@@ -1,0 +1,7 @@
+C:\Users\simon\source\repos\Exam - 7\Exam - 7\bin\Debug\Exam - 7.exe.config
+C:\Users\simon\source\repos\Exam - 7\Exam - 7\bin\Debug\Exam - 7.exe
+C:\Users\simon\source\repos\Exam - 7\Exam - 7\bin\Debug\Exam - 7.pdb
+C:\Users\simon\source\repos\Exam - 7\Exam - 7\obj\Debug\Exam - 7.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\Exam - 7\Exam - 7\obj\Debug\Exam - 7.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\Exam - 7\Exam - 7\obj\Debug\Exam - 7.exe
+C:\Users\simon\source\repos\Exam - 7\Exam - 7\obj\Debug\Exam - 7.pdb
