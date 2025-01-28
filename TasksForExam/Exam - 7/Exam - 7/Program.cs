@@ -92,9 +92,12 @@ namespace Exam___7
         {
             string path = "C:\\Users\\simon\\OneDrive\\Desktop\\Intro-To-Programming-CSharp\\TasksForExam\\Exam - 7\\Exam - 7\\array.txt";
 
-            Console.WriteLine(string.Join(" ", ReadArrayFromFile(path)));
+            int[] array = ReadArrayFromFile(path);
+            Console.WriteLine(string.Join(" ", array));
 
-            Console.WriteLine(SecondHighest(ReadArrayFromFile(path)));
+            Console.WriteLine(SecondHighest(array));
+
+            PrintMissingRanges(array);
         }
     }
 }
